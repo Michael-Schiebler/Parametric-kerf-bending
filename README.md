@@ -1,1 +1,1 @@
-Check  out the full release at www.kerfbendwizard.com
+Check  out the full release at thekerfwizard.pythonanywhere.com
