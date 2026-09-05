@@ -1,0 +1,679 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2025-06-10 20:33+0200\n"
+"PO-Revision-Date: 2025-04-24 20:45+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: es <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.17.0\n"
+
+msgid "About Kerf Bend Wizard"
+msgstr "Acerca de Kerf Bend Wizard"
+
+msgid "Kerf Bend Wizard"
+msgstr "Asistente de Kerf Bend"
+
+msgid "Created by Michael Schiebler"
+msgstr "Creado por Michael Schiebler"
+
+msgid "Version: "
+msgstr "Versión:"
+
+msgid "© 2025 All Rights Reserved"
+msgstr "© 2025 Todos los derechos reservados"
+
+msgid ""
+"This site is under active development. Feel free to submit ideas, bug "
+"reports or pictures of your work to the email address above. "
+msgstr ""
+"Este sitio está en desarrollo activo. No dude en enviar ideas, informes de "
+"errores o imágenes de su trabajo a la dirección de correo electrónico "
+"anterior."
+
+msgid "Back to homepage"
+msgstr "Volver a la página de inicio"
+
+msgid "Enter the lair of the Great Kerf Wizard!"
+msgstr "¡Entra en la guarida del gran mago Kerf!"
+
+msgid "English"
+msgstr "Inglés"
+
+msgid "Italiano"
+msgstr "Italiano"
+
+msgid "Español"
+msgstr "Español"
+
+msgid "First time?"
+msgstr "¿Primer tiempo?"
+
+msgid "Check out the tutorial!"
+msgstr "¡Mira el tutorial!"
+
+msgid "Tool Type:"
+msgstr "Tipo de herramienta:"
+
+msgid "Saw Blade"
+msgstr "Cuchilla de sierra"
+
+msgid "Can't go wrong with the classic"
+msgstr "No puedo equivocarte con el clásico"
+
+msgid "Tapered End Mill"
+msgstr "Fábrica de extremo cónico"
+
+msgid ""
+"Creates cuts with triangular section, this makes for a nicer result with no "
+"visible gaps"
+msgstr ""
+"Crea cortes con sección triangular, esto lo convierte en un resultado más "
+"agradable sin huecos visibles"
+
+msgid "Cut Parameters:"
+msgstr "Cortar parámetros:"
+
+msgid "Cut Width:"
+msgstr "Ancho de corte:"
+
+msgid "Thickness of your blade"
+msgstr "Grosor de tu cuchilla"
+
+msgid "Cut Depth:"
+msgstr "Profundidad de corte:"
+
+msgid "Should be 85-90%% of the material's thickness"
+msgstr "Debe ser 85-90 %% del grosor del material"
+
+msgid "End Mill Parameters:"
+msgstr "Parámetros del molino final:"
+
+msgid "Cone Angle:"
+msgstr "Ángulo del cono:"
+
+msgid "The full angle of the endmill. See tutorial for drawing."
+msgstr "El ángulo completo del endmill. Ver tutorial para dibujar."
+
+#, fuzzy
+msgid "Input Type:"
+msgstr "Tipo de entrada:"
+
+msgid "Bezier"
+msgstr "Bisier"
+
+msgid "Arc"
+msgstr "Arco"
+
+msgid "Spline"
+msgstr "Ranura"
+
+msgid "Upload DXF"
+msgstr "Subir DXF"
+
+msgid "Units:"
+msgstr "Unidades:"
+
+msgid "Millimeters"
+msgstr "Milímetros"
+
+msgid "Inches"
+msgstr "Pulgadas"
+
+msgid ""
+"Note that all this does is enable fractions (eg. 2 1/8) to be processed. "
+"Behind the scenes everything is processed in \"units\", thus using inches is"
+" 25.4 times less precise than mm."
+msgstr ""
+"Tenga en cuenta que todo esto es habilitar las fracciones (por ejemplo, 2 "
+"1/8) para ser procesadas. Detrás de escena, todo se procesa en \"unidades\","
+" por lo tanto, usar pulgadas es 25.4 veces menos preciso que MM."
+
+msgid "Output Settings:"
+msgstr "Configuración de salida:"
+
+msgid "Line Length:"
+msgstr "Longitud de la línea:"
+
+msgid "The length of the lines drawn in the output DXF"
+msgstr "La longitud de las líneas dibujadas en la salida DXF"
+
+msgid "Output offset:"
+msgstr "Compensación de salida:"
+
+msgid ""
+"Shifts the output, for example if you want to cut on the right of the marks "
+"you would shift the output by minus half a blade width (like -1.35)"
+msgstr ""
+"Cambia la salida, por ejemplo, si desea cortar a la derecha de las marcas, "
+"cambiaría la salida en menos medio ancho de la cuchilla (como -1.35)"
+
+msgid "Display Extra Geometries"
+msgstr "Mostrar geometrías adicionales"
+
+msgid ""
+"Draws debug geometries in the DXF, pay no attention to the man behind the "
+"curtain!"
+msgstr ""
+"Dibuja geometrías de depuración en el DXF, ¡no preste atención al hombre "
+"detrás de la cortina!"
+
+msgid "Algorithm type:"
+msgstr "Tipo de algoritmo:"
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Simple-symmetric"
+msgstr "Simple-simétrico"
+
+msgid "Automatic"
+msgstr "Automático"
+
+msgid ""
+"This software offers two different algorithms. \"Primary\" works best for "
+"most cases. \"Simple-symmetric\" is only useful if you want the cuts to be "
+"symmetrical, it works only on simple curves (parabolas and similar)."
+msgstr ""
+"Este software ofrece dos algoritmos diferentes. \"Primario\" funciona mejor "
+"para la mayoría de los casos. \"Simple-Symmetric\" solo es útil si desea que"
+" los cortes sean simétricos, funciona solo en curvas simples (parábolas y "
+"similares)."
+
+msgid "Add points by clicking on the canvas or manually enter coordinates."
+msgstr ""
+"Agregue puntos haciendo clic en el lienzo o ingrese manualmente las "
+"coordenadas."
+
+msgid "Control Points"
+msgstr "Puntos de control"
+
+msgid "Add Point"
+msgstr "Añadir punto"
+
+msgid "Clear All"
+msgstr "Despejar todo"
+
+msgid "Arc parameters:"
+msgstr "Parámetros de arco:"
+
+msgid "Radius:"
+msgstr "Radio:"
+
+msgid "Angle Span"
+msgstr "Tramo de ángulo"
+
+msgid "(degrees):"
+msgstr "(grados):"
+
+msgid "The current cut depth creates an approximated arc of"
+msgstr "La profundidad de corte de corriente crea un arco aproximado de"
+
+msgid "Suggest Ideal Values"
+msgstr "Sugerir valores ideales"
+
+msgid "Closest ideal values of cut depth:"
+msgstr "Valores ideales más cercanos de profundidad de corte:"
+
+msgid " cuts) or"
+msgstr "cortes) o"
+
+msgid " cuts)"
+msgstr "cortes)"
+
+#, fuzzy
+msgid "Upload DXF File (1MB max):"
+msgstr "Subir el archivo DXF (1MB MAX):"
+
+msgid "Accepted content:"
+msgstr "Contenido aceptado:"
+
+msgid " Single curve (must be one joined entity)"
+msgstr "Curva única (debe ser una entidad unida)"
+
+msgid " Point clouds (included for compatibility)"
+msgstr "Nubes de puntos (incluidas para compatibilidad)"
+
+msgid "Tips:"
+msgstr "Consejos:"
+
+msgid " No sharp corners (smooth curves only)"
+msgstr "Sin esquinas afiladas (solo curvas lisas)"
+
+msgid ""
+" If your CAD supports it convert to lines or polylines (eg. in Rhino save as"
+" \"2007-Lines\")"
+msgstr ""
+"Si su CAD lo admite, se convierte en líneas o polilíneas (por ejemplo, en "
+"rinocerontes, salvo como \"Líneas de 2007\")"
+
+msgid ""
+" \"Display Extra Geometries\" shows the imported line, check for errors on "
+"complex curves"
+msgstr ""
+"\"Mostrar geometrías adicionales\" muestra la línea importada, verifique los"
+" errores en curvas complejas"
+
+msgid "Select file:"
+msgstr "Seleccione el archivo:"
+
+msgid ""
+"Click to add control points. Drag existing points to reposition. Right click"
+" to save image."
+msgstr ""
+"Haga clic para agregar puntos de control. Arrastre los puntos existentes a "
+"la reposición. Haga clic derecho para guardar la imagen."
+
+msgid "Generate Kerf Pattern"
+msgstr "Generar patrón de kerf"
+
+msgid "Pondering..."
+msgstr "Reflexionando ..."
+
+msgid "Results"
+msgstr "Resultados"
+
+msgid "Download DXF File"
+msgstr "Descargar archivo DXF"
+
+msgid "Total Length:"
+msgstr "Longitud total:"
+
+msgid "Number of Cuts:"
+msgstr "Número de cortes:"
+
+msgid "Cut width:"
+msgstr "Ancho de corte:"
+
+msgid "Cut depth:"
+msgstr "Profundidad de corte:"
+
+#, fuzzy
+msgid "Algorithm used:"
+msgstr "Algoritmo utilizado:"
+
+msgid "Cut Distances"
+msgstr "Cortar distancias"
+
+msgid "Copy to Clipboard"
+msgstr "Copiar al portapapeles"
+
+msgid "(from edge of board, cuts must be made on the mark)"
+msgstr "(Desde el borde del tablero, los cortes deben hacerse en la marca)"
+
+msgid "Back to Top"
+msgstr "Volver arriba"
+
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+msgid "About"
+msgstr "Acerca de"
+
+msgid "Kerf Bend Wizard. All rights reserved."
+msgstr "Kerf Bend Wizard. Reservados todos los derechos."
+
+#, fuzzy
+msgid "Kerf Bend Wizard - Tutorial"
+msgstr "Asistente de Kerf Bend - Tutorial"
+
+msgid "Quickstart Guide"
+msgstr "Guía QuickStart"
+
+msgid "1. Kerf bend basics"
+msgstr "1. Kerf Bend Conceptos básicos"
+
+msgid ""
+"Kerf bending allows us to bend flat materials (most often plywood) into "
+"curves, often these curves are arcs (sections of circles) but with some "
+"clever math we can get any continuous shape."
+msgstr ""
+"La flexión del kerf nos permite doblar materiales planos (a menudo con "
+"madera contrachapada) en curvas, a menudo estas curvas son arcos (secciones "
+"de círculos) pero con algunas matemáticas inteligentes podemos obtener "
+"cualquier forma continua."
+
+msgid ""
+"This tecnique has its limitations: the curves must be continuous and the "
+"bend radius must be sufficiently large (bends cannot be too sharp)."
+msgstr ""
+"Esta Tecnique tiene sus limitaciones: las curvas deben ser continuas y el "
+"radio de curvatura debe ser lo suficientemente grande (las curvas no pueden "
+"ser demasiado agudas)."
+
+msgid "2. A simple arc bend"
+msgstr "2. Una simple curva de arco"
+
+msgid "In this example we will learn how to create "
+msgstr "En este ejemplo aprenderemos a crear"
+
+msgid " the curved sides of this cabinet"
+msgstr "los lados curvos de este gabinete"
+
+msgid "This is a top view of the side of our cabinet"
+msgstr "Esta es una vista superior del lado de nuestro gabinete"
+
+msgid ""
+"I want to bend a piece of plywood to form a 90 degree angle to connect two "
+"sides of this cabinet. The plywood I'm using is 20mm thick and I will be "
+"using my table saw to cut it. My table saw makes cuts with a width of 2.7mm."
+" Let's list the parameters I will need to input:"
+msgstr ""
+"Quiero doblar un pedazo de madera contrachapada para formar un ángulo de 90 "
+"grados para conectar dos lados de este gabinete. La madera contrachapada que"
+" estoy usando tiene 20 mm de espesor y usaré mi sierra de mesa para "
+"cortarla. Mi sierra de mesa hace cortes con un ancho de 2.7 mm. Enumeremos "
+"los parámetros que necesitaré ingresar:"
+
+msgid "Tool type:"
+msgstr "Tipo de herramienta:"
+
+msgid "Saw"
+msgstr "Sierra"
+
+msgid ""
+"2.7 (either measure the cut with calipers or look for the width written on "
+"the blade)"
+msgstr ""
+"2.7 (Mida el corte con pinzas o busque el ancho escrito en la cuchilla)"
+
+msgid "17 (I got this by multiplying 20×0.85, which is a good starting point)"
+msgstr ""
+"17 (obtuve esto multiplicando 20 × 0.85, que es un buen punto de partida)"
+
+msgid "Curve type:"
+msgstr "Tipo de curva:"
+
+msgid "Arc radius:"
+msgstr "Radio del arco:"
+
+msgid ""
+"150 (this measurement is taken on the <b>uncut</b> side of the curve, "
+"rendered in red in the drawing)"
+msgstr ""
+"150 (esta medición se toma en el lado <b> sin cortar </b> de la curva, "
+"representada en rojo en el dibujo)"
+
+msgid "Arc angle:"
+msgstr "Ángulo de arco:"
+
+msgid "90"
+msgstr "90"
+
+msgid ""
+"Now I press \"Generate Kerf Pattern\" and a the output appears in two "
+"formats:"
+msgstr ""
+"Ahora presiono \"Generar el patrón de kerf\" y A la salida aparece en dos "
+"formatos:"
+
+msgid "The cut list:"
+msgstr "La lista de corte:"
+
+msgid ""
+"the simplest way to get the output. It's a list of all the cuts that must be"
+" made, their distance from the left edge of the workpiece and the side on "
+"which to cut. By default (with output_offset=0) these measurements will "
+"correspond to the center of the cut, so you will align the center of the "
+"blade with the measurement."
+msgstr ""
+"La forma más sencilla de obtener la salida. Es una lista de todos los cortes"
+" que deben hacerse, su distancia desde el borde izquierdo de la pieza de "
+"trabajo y el lado para cortar. Por defecto (con output_offset = 0), estas "
+"mediciones corresponderán al centro del corte, por lo que alineará el centro"
+" de la cuchilla con la medición."
+
+msgid "The output DXF:"
+msgstr "La salida dxf:"
+
+msgid ""
+"for use in CAD or CNC routers, cuts are organized by layer and color to make"
+" importing into CAM software easier."
+msgstr ""
+"Para su uso en enrutadores CAD o CNC, los cortes se organizan por capa y "
+"color para facilitar la importación del software CAM."
+
+msgid "Ideal cut depth suggestion feature:"
+msgstr "Característica de sugerencia de profundidad de corte ideal:"
+
+msgid ""
+"Each cut bends the board by a given angle (let's call it kerf_angle, if "
+"you're curious "
+msgstr ""
+"Cada corte dobla el tablero por un ángulo determinado (llamémoslo "
+"kerf_angle, si tienes curiosidad"
+
+msgid ""
+"the formula is 2×atan(cut_width/ 2×cut_depth)), because of this the angle "
+"that the workpiece will bend will always be a multiple of kerf_angle, if "
+"arc_angle is not divisible by kerf_angle your arc will end up with a "
+"slightly larger or smaller angle span (this software always rounds to the "
+"larger one)."
+msgstr ""
+"La fórmula es 2 × Atan (Cut_Width/ 2 × Cut_depth)), debido a esto, el ángulo"
+" de que la pieza de trabajo se doblará siempre será un múltiplo de "
+"kerf_angle, si arc_angle no es divisible por kerf_angle su arco terminará "
+"con un tramo de ángulo ligeramente más grande o más pequeño (este software "
+"siempre redondea a la más grande)."
+
+msgid ""
+"The \"suggest ideal cut depth\" feature helps us deal with this issue. With "
+"the values of our example the best possible arc approximation is 90.8° "
+"instead of 90, this is close enough but the software suggests we increase "
+"the depth to 17.15 in order to be even closer. We run the calculation again "
+"with that value and the arc approximation is now 90°."
+msgstr ""
+"La característica de \"sugerencia de profundidad de corte ideal\" nos ayuda "
+"a lidiar con este problema. Con los valores de nuestro ejemplo, la mejor "
+"aproximación de arco posible es 90.8 ° en lugar de 90, esto es lo "
+"suficientemente cercano, pero el software sugiere que aumentemos la "
+"profundidad a 17.15 para estar aún más cerca. Ejecutamos el cálculo "
+"nuevamente con ese valor y la aproximación de arco ahora es de 90 °."
+
+msgid "3. Bending more complex shapes"
+msgstr "3. Doblar formas más complejas"
+
+msgid ""
+"Let's keep going with the same tool and material parameters as before, we'll"
+" now focus on different types of curves: "
+msgstr ""
+"Sigamos con la misma herramienta y parámetros de material que antes, ahora "
+"nos centraremos en diferentes tipos de curvas:"
+
+msgid "Bezier curves:"
+msgstr "Curvas Bezier:"
+
+msgid ""
+"These are simple to use, you will need 3 or more points. With 3 control "
+"points this curve is mathematically equivalent to a parabola, which can come"
+" in useful. These curves may also have both negative and positive curvature "
+"(an S shape for example) which will require you to make cuts on both sides "
+"of the board (side A and B)."
+msgstr ""
+"Estos son fáciles de usar, necesitará 3 o más puntos. Con 3 puntos de "
+"control, esta curva es matemáticamente equivalente a una parábola, que puede"
+" ser útil. Estas curvas también pueden tener una curvatura negativa y "
+"positiva (una forma de S, por ejemplo), lo que requerirá que haga cortes en "
+"ambos lados del tablero (lado A y B)."
+
+msgid "Splines:"
+msgstr "Splines:"
+
+msgid ""
+"This type of curve also allows for the creation of more complex geometries "
+"but I find it harder to use, also there are occasionaly some display errors,"
+" enable the 'Display Extra Geometries' option to check for inconsistencies."
+msgstr ""
+"Este tipo de curva también permite la creación de geometrías más complejas, "
+"pero me resulta más difícil de usar, también hay ocasionalmente algunos "
+"errores de visualización, habilitan la opción 'Mostrar geometrías "
+"adicionales' para verificar las inconsistencias."
+
+msgid "Example: bending a parabola (or similar shape using splines)"
+msgstr "Ejemplo: doblar una parábola (o forma similar usando splines)"
+
+msgid ""
+"Let's start with inputting our tool and material parameters as in the "
+"previous example. This time we will need to select \"Bezier\" in the Curve "
+"Type section. This will show us 3 default points of the graph, we can change"
+" them by dragging the control points on the graph or by typing our "
+"coordinates on the left. Clicking on the graph adds new points allowing for "
+"more complex curves"
+msgstr ""
+"Comencemos con la entrada de nuestra herramienta y parámetros de material "
+"como en el ejemplo anterior. Esta vez necesitaremos seleccionar \"Bezier\" "
+"en la sección Tipo de curva. Esto nos mostrará 3 puntos predeterminados del "
+"gráfico, podemos cambiarlos arrastrando los puntos de control en el gráfico "
+"o escribiendo nuestras coordenadas a la izquierda. Al hacer clic en el "
+"gráfico, agrega nuevos puntos que permiten curvas más complejas"
+
+msgid ""
+"Most CAD softwares support bezier curves (sometimes under different names) "
+"so I find it useful to draw the curve in CAD then manually transfer the "
+"coordinates of the control points."
+msgstr ""
+"La mayoría de los softwares CAD admiten curvas Bezier (a veces bajo "
+"diferentes nombres), por lo que me parece útil dibujar la curva en CAD y "
+"luego transferir manualmente las coordenadas de los puntos de control."
+
+msgid ""
+"As outlined in the paragraph below whether our curve points upwards or "
+"downwards is important, for simple use cases I suggest you draw your curve "
+"pointing up (U shape) and draw the uncut side of your final piece. If you "
+"choose to draw it facing down (inverted U) you will need to draw the side "
+"with the cuts."
+msgstr ""
+"Como se describe en el párrafo a continuación, si nuestra curva apunta hacia"
+" arriba o hacia abajo es importante, para casos de uso simples, le sugiero "
+"que dibuje su curva apuntando (forma u) y dibuje el lado sin cortar de su "
+"pieza final. Si elige dibujarlo hacia abajo (U invertido), deberá dibujar el"
+" lado con los cortes."
+
+msgid "Advanced use case:"
+msgstr "Caso de uso avanzado:"
+
+msgid "Understanding the handling of complex shapes"
+msgstr "Comprender el manejo de formas complejas"
+
+msgid ""
+"This software takes curves (which mathematically have no thickness) as input"
+" but in the real world we work with materials with thickness (eg. 20mm in "
+"our example) this means that the two sides of our finished piece will follow"
+" different shapes (eg. in our first example the inner side had a radius of "
+"130 and the other of 150)."
+msgstr ""
+"Este software toma curvas (que matemáticamente no tienen grosor) como "
+"entrada, pero en el mundo real trabajamos con materiales con grosor (por "
+"ejemplo, 20 mm en nuestro ejemplo) esto significa que los dos lados de "
+"nuestra pieza terminada seguirán diferentes formas (por ejemplo, en nuestro "
+"primer ejemplo, el lado interior tenía un radio de 130 y el otro de 150)."
+
+msgid ""
+"In the previous example I simply said to input the measurements of the "
+"<b>uncut</b> side of the material. This is a great rule of thumb whenever "
+"you are only cutting on side A. If your curve is concave you should always "
+"point it upwards (making a U shape) so that the output cuts are all on side "
+"A, then draw the uncut side."
+msgstr ""
+"En el ejemplo anterior, simplemente dije que ingrese las mediciones del lado"
+" <b> sin cortar </b> del material. Esta es una gran regla general siempre "
+"que solo esté cortando en el lado A. Si su curva es cóncava, siempre debe "
+"apuntarlo hacia arriba (haciendo una forma de U) para que los cortes de "
+"salida estén en el lado A, luego dibuje el lado sin cortar."
+
+msgid ""
+"If this is all you need to do then you can skip the headache, don't read the"
+" next part."
+msgstr ""
+"Si esto es todo lo que necesita hacer, entonces puede omitir el dolor de "
+"cabeza, no lea la siguiente parte."
+
+msgid ""
+"But what if your curve has both upwards and downwards concavity (eg. an S "
+"shape)? You want to orient your drawing so the left side has upwards "
+"concavity. The shape that you draw will correspond to the side of the piece "
+"that on the left side is left uncut."
+msgstr ""
+"Pero, ¿qué pasa si su curva tiene concavidad hacia arriba y hacia abajo (por"
+" ejemplo, una forma de S)? Desea orientar su dibujo para que el lado "
+"izquierdo tenga una concavidad hacia arriba. La forma que dibuje "
+"corresponderá al lado de la pieza que en el lado izquierdo queda sin cortar."
+
+msgid "4. Using tapered ball end mills"
+msgstr "4. Uso de fábricas de bola cónica"
+
+msgid ""
+"To avoid getting those triangular gaps in the workpiece you can use a "
+"tapered ball end mill instead of a saw blade to make the cuts. Select tool "
+"type \"tapered end mill\". The cut depth parameter is self explanatory, the "
+"angle needs to be the total angle of the endmill, basically the angle of the"
+" triangular cut it creates. This measurement is shown as \"B\" in the "
+"picture, measured in degrees. Also try to minimize tip diameter (2R in the "
+"picture)."
+msgstr ""
+"Para evitar obtener esos espacios triangulares en la pieza de trabajo, puede"
+" usar un molino de bola cónico en lugar de una cuchilla de sierra para hacer"
+" los cortes. Seleccione Tipo de herramienta \"Molino de extremo cónico\". El"
+" parámetro de profundidad de corte se explica por sí mismo, el ángulo debe "
+"ser el ángulo total del endmill, básicamente el ángulo del corte triangular "
+"que crea. Esta medición se muestra como \"B\" en la imagen, medida en "
+"grados. También intente minimizar el diámetro de la punta (2R en la imagen)."
+
+msgid "Home"
+msgstr "Hogar"
+
+msgid "Offset output:"
+msgstr "Salida de compensación:"
+
+msgid "Ray reflection"
+msgstr "Reflexión de rayos"
+
+msgid "Length difference"
+msgstr "Diferencia de longitud"
+
+msgid ""
+"This software supports different algorithms suited to different use cases. "
+"Automatic chooses between the other two automatically. Ray reflection gives "
+"very good results for simple curves (eg. parabola) while length difference "
+"is used for complex paths but is less precise. The debug geometries drawn "
+"will change depending on the algorithm."
+msgstr ""
+"Este software admite diferentes algoritmos adecuados para diferentes casos "
+"de uso. Automático elige entre los otros dos automáticamente. La reflexión "
+"de rayos proporciona muy buenos resultados para curvas simples (por ejemplo,"
+" parábola), mientras que la diferencia de longitud se usa para rutas "
+"complejas, pero es menos preciso. Las geometrías de depuración dibujadas "
+"cambiarán según el algoritmo."
+
+msgid "Curve Type:"
+msgstr "Tipo de curva:"
+
+msgid "Ray Intersection Propagation"
+msgstr "Propagación de la intersección de rayos"
+
+msgid "Offset Length Discrepancy"
+msgstr "Discrepancia de longitud de compensación"
+
+msgid ""
+"This software offers two different algorithms. \"Ray Intersection "
+"Propagation\" gives accurate results for simple curves (such as parabolas). "
+"For more complex geometries \"Offset Length Discrepancy\" is better, though "
+"it sacrifices some precision. \"Automatic\" chooses between the other two "
+"automagically. The debug geometries displayed will vary based on the "
+"selected algorithm."
+msgstr ""
+"Este software ofrece dos algoritmos diferentes. La \"propagación de la "
+"intersección de rayos\" proporciona resultados precisos para curvas simples "
+"(como paracolas). Para geometrías más complejas \"discrepancia de longitud "
+"de compensación\" es mejor, aunque sacrifica cierta precisión. "
+"\"Automático\" elige entre los otros dos automáticamente. Las geometrías de "
+"depuración que se muestran variarán según el algoritmo seleccionado."
+
+msgid "Kerf Bend Wiz"
+msgstr "Kerf bend wiz"
